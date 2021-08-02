@@ -59,12 +59,12 @@ File  endpoint.txt
 ### Iniciando:
 
 ```sh
-python3 observer.py
+[user@host ~]$ python3 observer.py
 ```
 
 ### Iniciando Sched:
 A diferença entre eles é que este aplicativo roda a e intervalos determinados.
 
 ```sh
-python3 sched.py
+[user@host ~]$ python3 sched.py
 ```
